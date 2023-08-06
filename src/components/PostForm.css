@@ -1,0 +1,19 @@
+form{
+    display: block;
+    font-size: medium;
+    font-family: monospace;
+}
+form input{
+    display: block;
+    width: 80%;
+    height: 40px;
+    border: none;
+    padding: 5px;
+    margin: auto;
+    background-color: rgb(203, 203, 203);
+    
+}
+
+form textarea{
+    display: block;
+}
